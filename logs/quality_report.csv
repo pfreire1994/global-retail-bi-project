@@ -1,0 +1,11 @@
+﻿table_name,row_count
+d_calendar,1468
+d_customer,4873
+d_product,10292
+d_geography,3819
+d_market,7
+d_ship_mode,4
+d_order_priority,4
+d_discount_band,5
+d_profitability_band,5
+f_sales_order_line,51290
